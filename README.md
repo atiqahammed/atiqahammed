@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 [![I am Atiq Ahammed](https://github.com/atiqahammed/atiqahammed/blob/master/stuffs/img/Hi.png)](https://atiq-ahammed.web.app)
 
 Here are some ideas to get you started:
