@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <img
-	src=“images/SubPronouns.jpg”
+	src=“https://github.com/atiqahammed/atiqahammed/blob/master/stuffs/img/Hi.png”
 	raw=true
 	alt=“I am Atiq Ahammed”
-	style=“https://github.com/atiqahammed/atiqahammed/blob/master/stuffs/img/Hi.png”
+	style=“”
 />
 
 Here are some ideas to get you started:
