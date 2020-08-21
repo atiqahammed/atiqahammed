@@ -8,14 +8,14 @@ function Navbar(props) {
                 <input type="checkbox" id="nav-check" />
                 <div className="nav-header">
                     <div className="nav-title">
-                    JoGeek
+                    Atiq
                     </div>
                 </div>
                 <div className="nav-btn">
                     <label for="nav-check">
                     <span></span>
                     <span></span>
-                    <span></span>
+                    <span>bfghfghfgh</span>
                     </label>
                 </div>
                 
