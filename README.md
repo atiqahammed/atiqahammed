@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h2>Example of code</h2>
+
 ### About
 After earning my BSSE in Software Engineering from the Institute of Information Technology of the University of Dhaka, I entered the software development world to explore my passion for codding. Currently, I work as a Software Engineer for NuArca, where I'm responsible for software development.
 
