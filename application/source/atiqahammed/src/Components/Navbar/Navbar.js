@@ -15,7 +15,7 @@ function Navbar(props) {
                     <label for="nav-check">
                     <span></span>
                     <span></span>
-                    <span>bfghfghfgh</span>
+                    <span></span>
                     </label>
                 </div>
                 
