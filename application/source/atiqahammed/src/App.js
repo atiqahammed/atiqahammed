@@ -1,15 +1,20 @@
 import React, { Fragment } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import grtteingImage from './stuffs/img/Hi.png';
 import Navbar from './Components/Navbar/Navbar';
+import { Switch, Route } from 'react-router-dom';
+import Home from './Components/Home/Home';
+import PageNotFound from './Components/PageNotFound/PageNotFound';
 
 function App() {
   return (
     <Fragment>
       <Navbar />
-      <div className="d-flex justify-content-center">
-        <img src={grtteingImage} className='img-fluid' alt='Hi, I am Atiq Ahammed'></img>
+      <div className="container-fluid">
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route component={PageNotFound}/>
+        </Switch>
       </div>
     </Fragment>
     
