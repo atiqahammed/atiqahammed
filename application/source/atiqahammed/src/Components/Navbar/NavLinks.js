@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 function NavLinks() {
     return (
