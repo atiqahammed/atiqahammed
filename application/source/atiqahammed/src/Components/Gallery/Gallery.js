@@ -4,7 +4,7 @@ function Gallery(props) {
     return (
         <Fragment>
             <div>
-				Gallery
+				<h1>Gallery</h1>
 			</div>
 			<p>This page is under construction</p>
         </Fragment>
