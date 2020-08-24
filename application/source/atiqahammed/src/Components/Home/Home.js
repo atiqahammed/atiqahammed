@@ -7,10 +7,10 @@ function Home(props) {
             <div className="container">
                 <div className="row">
                     <div className="col"></div>
-                    <div className="col-8 pt-100">
-                        <div>
+                    <div className="col-8">
+                        
                             <About />
-                        </div>
+                    
                         
                     </div>
                     <div className="col"></div>
