@@ -1,12 +1,13 @@
 import React, { Fragment } from 'react';
+import { NavLink } from 'react-router-dom';
 
 function NavLinks() {
     return (
         <Fragment>
             <div className="nav-links">
-                <a href="https://github.com/atiqahammed">Github</a>
-                <a href="https://www.facebook.com/atiq.ahammed.shamim.pramanik/">Facebook</a>
-                <a href="https://www.linkedin.com/in/atiq-ahammed/">LinkedIn</a>
+                <NavLink exact activeClassName='nav-active' to='/'>About</NavLink>
+                <NavLink activeClassName='nav-active' to='/contact'>Contact</NavLink>
+                <NavLink activeClassName='nav-active' to='/gallery'>Gallery</NavLink>
             </div>
         </Fragment>
     );
