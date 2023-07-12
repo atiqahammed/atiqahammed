@@ -2,17 +2,12 @@
 
 [![I am Atiq Ahammed](https://github.com/atiqahammed/atiqahammed/blob/master/stuffs/img/Hi.png)](https://atiq-ahammed.web.app)
 
-Here are some ideas to get you started:
+I am a senior software engineer with smart contract development experience. Working with web3 for the last 2 years.  I am also a full-stack software engineer for the last 4+ years and am adaptive to any new technology.
 
-- 🔭 I’m currently working on ... React
-- 🌱 I’m currently learning ... Advance React with patterns
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-### About
-After earning my BSSE in Software Engineering from the Institute of Information Technology of the University of Dhaka, I entered the software development world to explore my passion for codding. Currently, I work as a Software Engineer for NuArca, where I'm responsible for software development.
+## EXPERIENCE
+#### Liquidx Studio, Kuala Lumpur, Malaysia — Senior Software Engineer
+> AUGUST 2022 - PRESENT
+- Managing Blockchain team
+- Requirements analysis and design web3 solution
+- Smart contract development, deployment, and monitoring transactions
+- Guiding engineering team for web3 application development
