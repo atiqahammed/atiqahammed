@@ -8,11 +8,17 @@ With a curious mind, an eye for detail, and a passion for both technology and ar
 
 ## EXPERIENCE
 #### Liquidx Studio, Kuala Lumpur, Malaysia — Senior Software Engineer
-> AUGUST 2022 - PRESENT
+> AUGUST 2022 - JANUARY 2024
 - Managing Blockchain team
 - Requirements analysis and design web3 solution
 - Smart contract development, deployment, and monitoring transactions
 - Guiding engineering team for web3 application development
+
+#### Orion Informatics Ltd, House-32, Road-7, Dhanmondi, Dhaka, Dhaka, Bangladesh — Junior Software Developer
+> JULY 2019 - DECEMBER 2019
+- Created test case automation for AST Proxy Voting admin portal
+- Developed web snipping with puppeteer js for test automation
+- Develop API testing tool for Ast. Private Co
 
 #### Orion Informatics Ltd, House-32, Road-7, Dhanmondi, Dhaka, Dhaka, Bangladesh — Intern
 > JANUARY 2019 - JUNE 2019
