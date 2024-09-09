@@ -13,3 +13,10 @@ With a curious mind, an eye for detail, and a passion for both technology and ar
 - Requirements analysis and design web3 solution
 - Smart contract development, deployment, and monitoring transactions
 - Guiding engineering team for web3 application development
+
+#### Orion Informatics Ltd, House-32, Road-7, Dhanmondi, Dhaka, Dhaka, Bangladesh — Intern
+> JANUARY 2019 - JUNE 2019
+- Worked with the Proxy Voting solution for AST.
+- Created automated test scripts AST Admin portal, Shareholder portal and Issuer portal
+- Used JS, Puppeteer, Jest
+
